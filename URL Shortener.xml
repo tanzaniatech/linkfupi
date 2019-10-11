@@ -136,7 +136,7 @@ body#layout textarea{display:none;}
     <b:if cond='data:blog.homepageUrl == data:blog.url'>
       <section class='jumbotron bg-light text-dark jumbotron-fluid mb-0'>
         <div class='container text-center'>
-          <h4 class='h3'>Your Site Name Here</h4>
+          <h4 class='h3'>Jina la Tovuti</h4>
           <p class='lead'>Encrypting your link and protect the link from viruses, malware, thief, etc! Made your link safe to visit.</p>
         </div>
       </section>
@@ -735,7 +735,7 @@ path : &quot;#?o=&quot;
     
     <footer class='bg-light border-top border-black-50 shadow-sm py-3'>
       <div class='text-center small'>
-          Copyright &amp;copy; 2019 <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a> Proudly by <a href='https://www.technovedant.com/' rel='dofollow'><font color="black">URL Shortener</font></a>
+Copyright &amp;copy; 2019 <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a> Proudly by <a href='https://tanzaniatech.one/' rel='dofollow'><font color='black'>URL Shortener</font></a>
       </div>
     </footer>
 
@@ -883,7 +883,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML7' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;https://shortzon.com/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shortzon.com/img/970_90.gif&quot; title=&quot;ShortZon - Short Links to Earn Money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -898,7 +898,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML10' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;http://shrinkme.io/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shrinkme.io/banners/ref/300x250.png&quot; title=&quot;Make short links and earn the biggest money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -913,7 +913,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML9' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;http://shrinkme.io/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shrinkme.io/banners/ref/300x250.png&quot; title=&quot;Make short links and earn the biggest money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -937,7 +937,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML2' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;http://shrinkme.io/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shrinkme.io/banners/ref/970x250.png&quot; title=&quot;Make short links and earn the biggest money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -952,7 +952,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML1' locked='false' title='⬇⬇ Join Now to Earn Upto 15$ Daily Totally Free⬇⬇' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;https://shortzon.com/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shortzon.com/img/970_90.gif&quot; title=&quot;ShortZon - Short Links to Earn Money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -967,7 +967,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML3' locked='false' title='⬇⬇ Join Now to Earn Upto 22$ Daily Totally Free ⬇⬇' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;http://shrinkme.io/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shrinkme.io/banners/ref/970x90.png&quot; title=&quot;Make short links and earn the biggest money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -982,7 +982,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML4' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;https://shortzon.com/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shortzon.com/img/300_250.gif&quot; title=&quot;ShortZon - Short Links to Earn Money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
@@ -996,9 +996,9 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
       <b:section id='ads-center-article'>
         <b:widget id='HTML5' locked='false' title='⬇⬇Get Your Link⬇⬇' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'>&lt;!-- Adslop - Ad Display Code --&gt;
-&lt;div id=&quot;adm-container-8746&quot;&gt;&lt;/div&gt;&lt;script data-cfasync=&quot;false&quot; async type=&quot;text/javascript&quot; src=&quot;//adop.pw/display/items.php?8746&amp;2681&amp;468&amp;60&amp;4&quot;&gt;&lt;/script&gt;
-&lt;!-- Adslop - Ad Display Code --&gt;</b:widget-setting>
+            <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
+&lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -1012,7 +1012,7 @@ var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){fun
         <b:widget id='HTML6' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;!-- Start of banner code --&gt;
-&lt;a href=&quot;http://shrinkme.io/ref/Kamranshares&quot;&gt;&lt;img src=&quot;https://shrinkme.io/banners/ref/300x250.png&quot; title=&quot;Make short links and earn the biggest money&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://tanzaniatech.one&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/npew9dDnrDUsZl3lrIzjGAUr2SGR6qC2XLteyiNSeAp2SumD-eE3cruubr5FunAWyq0=w300-h250&quot; title=&quot;Mfano - Mfano wa Tangazo Adsense&quot; /&gt;&lt;/a&gt;
 &lt;!-- End of banner code --&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
